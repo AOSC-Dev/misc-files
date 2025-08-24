@@ -1,0 +1,18 @@
+name: Verify updates (check only)
+
+on:
+  pull_request:
+    paths: [ files.list ]
+  workflow_dispatch: ~
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Update
+        run: |
+          bash update-files.sh
