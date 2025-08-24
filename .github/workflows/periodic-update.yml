@@ -27,9 +27,25 @@ jobs:
 
       - name: Push
         uses: JamesIves/github-pages-deploy-action@v4
+        id: deploy-file
         with:
           branch: master
           folder: .
           git-config-name: github-actions[bot]
           git-config-email: 41898282+github-actions[bot]@users.noreply.github.com
           commit-message: updated ${{ steps.current-time.outputs.formattedTime }} UTC
+
+      - name: tagging-get-current-time
+        if: ${{ steps.deploy-file.outputs.deployment-status == 'success' }}
+        uses: srfrnk/current-time@master
+        id: current-time-tagging
+        with:
+          format: "YYYYMMDD"
+        
+      - name: tagging
+        if: ${{ steps.deploy-file.outputs.deployment-status == 'success' }}
+        uses: anothrNick/github-tag-action@1.75.0
+        env:
+          CUSTOM_TAG: ${{ steps.current-time-tagging.outputs.formattedTime }}
+          DEFAULT_BRANCH: master
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
