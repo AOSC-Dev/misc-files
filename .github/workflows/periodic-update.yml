@@ -11,21 +11,20 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
-
+    outputs: 
+      updated: ${{ steps.deploy-file.outputs.deployment-status }}
+      sha: ${{ steps.get-sha.outputs.sha }}
     steps:
       - name: Get current time
         uses: srfrnk/current-time@master
         id: current-time
         with:
           format: "YYYY-MM-DD HH:mm"
-
       - name: Checkout
-        uses: actions/checkout@v3
-
+        uses: actions/checkout@v4
       - name: Update
         run: |
           bash update-files.sh
-
       - name: Push
         uses: JamesIves/github-pages-deploy-action@v4
         id: deploy-file
@@ -35,7 +34,6 @@ jobs:
           git-config-name: github-actions[bot]
           git-config-email: 41898282+github-actions[bot]@users.noreply.github.com
           commit-message: updated ${{ steps.current-time.outputs.formattedTime }} UTC
-
       - name: tagging-get-current-time
         if: ${{ steps.deploy-file.outputs.deployment-status == 'success' }}
         uses: srfrnk/current-time@master
@@ -50,3 +48,51 @@ jobs:
           CUSTOM_TAG: ${{ steps.current-time-tagging.outputs.formattedTime }}
           DEFAULT_BRANCH: master
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      
+  push_tag:
+    runs-on: ubuntu-latest
+    needs: [ update ]
+    # 仅在有 Push 时
+    if: ${{ needs.update.outputs.updated == 'success' }} 
+    strategy:
+      matrix:
+        item: ['iana-etc', 'bind'] # TODO: 修改为 based by files.list
+    steps:
+      - name: Sleep to wait for GitHub process output
+        run: |
+          sleep 10s
+      - name: checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: refs/heads/master
+
+      - name: tagging-get-current-time
+        uses: srfrnk/current-time@master
+        id: current-time-tagging
+        with:
+          format: "YYYYMMDD"
+      - name: Get current time
+        uses: srfrnk/current-time@master
+        id: current-time
+        with:
+          format: "YYYY-MM-DD HH:mm"
+      - name: Push
+        uses: JamesIves/github-pages-deploy-action@v4
+        id: deploy-file
+        with:
+          branch: ${{ matrix.item }}
+          folder: ${{ matrix.item }}
+          git-config-name: github-actions[bot]
+          git-config-email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit-message: "chore(ci): updated ${{ matrix.item }} ${{ steps.current-time.outputs.formattedTime }} UTC"
+
+      - name: Tagging
+        if: ${{ steps.deploy-file.outputs.deployment-status == 'success' }}
+        uses: anothrNick/github-tag-action@1.75.0
+        env:
+          CUSTOM_TAG: ${{ matrix.item }}-${{ steps.current-time-tagging.outputs.formattedTime }}
+          DEFAULT_BRANCH: ${{ matrix.item }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
