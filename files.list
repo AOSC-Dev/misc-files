@@ -1,4 +1,4 @@
-https://www.internic.net/zones/named.root
+bind https://www.internic.net/zones/named.root
 
-https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xml
-https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xml
+iana-etc https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xml
+iana-etc https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xml
