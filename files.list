@@ -1,3 +1,6 @@
+# package-name url [file-name]
+# bind https://www.internic.net/zones/named.root
+# iana-etc https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xml service-names-port-numbers.iana
 bind https://www.internic.net/zones/named.root
 
 iana-etc https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xml
