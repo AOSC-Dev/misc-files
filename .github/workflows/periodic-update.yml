@@ -33,14 +33,13 @@ jobs:
           folder: .
           git-config-name: github-actions[bot]
           git-config-email: 41898282+github-actions[bot]@users.noreply.github.com
-          commit-message: updated ${{ steps.current-time.outputs.formattedTime }} UTC
+          commit-message: "chore(ci): updated ${{ steps.current-time.outputs.formattedTime }} UTC"
       - name: tagging-get-current-time
         if: ${{ steps.deploy-file.outputs.deployment-status == 'success' }}
         uses: srfrnk/current-time@master
         id: current-time-tagging
         with:
           format: "YYYYMMDD"
-        
       - name: tagging
         if: ${{ steps.deploy-file.outputs.deployment-status == 'success' }}
         uses: anothrNick/github-tag-action@1.75.0
@@ -67,7 +66,6 @@ jobs:
         with:
           fetch-depth: 0
           ref: refs/heads/master
-
       - name: tagging-get-current-time
         uses: srfrnk/current-time@master
         id: current-time-tagging
@@ -87,7 +85,17 @@ jobs:
           git-config-name: github-actions[bot]
           git-config-email: 41898282+github-actions[bot]@users.noreply.github.com
           commit-message: "chore(ci): updated ${{ matrix.item }} ${{ steps.current-time.outputs.formattedTime }} UTC"
-
+      # Need to checkout to package-specific branch to ensure workflow Tagging works against proper branch
+      - name: Sleep to wait for GitHub process output again
+        if: ${{ steps.deploy-file.outputs.deployment-status == 'success' }}
+        run: |
+          sleep 10s
+      - name: checkout ${{ matrix.item }}
+        if: ${{ steps.deploy-file.outputs.deployment-status == 'success' }}
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: refs/heads/${{ matrix.item }}
       - name: Tagging
         if: ${{ steps.deploy-file.outputs.deployment-status == 'success' }}
         uses: anothrNick/github-tag-action@1.75.0
