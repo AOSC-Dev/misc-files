@@ -4,7 +4,7 @@
 <registry xmlns="http://www.iana.org/assignments" id="service-names-port-numbers">
   <title>Service Name and Transport Protocol Port Number Registry</title>
   <category>Service Names and Transport Protocol Port Numbers</category>
-  <updated>2025-09-26</updated>
+  <updated>2025-09-29</updated>
   <xref type="rfc" data="rfc6335"/>
   <expert>TCP/UDP: Joe Touch; Eliot Lear, Kumiko Ono, Wes Eddy, Brian Trammell, 
 Jana Iyengar, and Michael Scharf
@@ -10032,46 +10032,40 @@ common service discovery mechanisms.</note>
     <description>NETCONF over SSH</description>
     <number>830</number>
   </record>
-  <record>
-    <name>netconf-beep</name>
+  <record updated="2025-09-29">
     <protocol>tcp</protocol>
-    <xref type="rfc" data="rfc4744"/>
-    <description>NETCONF over BEEP</description>
+    <note>Previously assigned to NETCONF over BEEP but released by <xref type="draft" data="RFC-ietf-netconf-port-numbers-07"/></note>
+    <description>Reserved</description>
     <number>831</number>
   </record>
-  <record>
-    <name>netconf-beep</name>
+  <record updated="2025-09-29">
     <protocol>udp</protocol>
-    <xref type="rfc" data="rfc4744"/>
-    <description>NETCONF over BEEP</description>
+    <note>Previously assigned to NETCONF over BEEP but released by <xref type="draft" data="RFC-ietf-netconf-port-numbers-07"/></note>
+    <description>Reserved</description>
     <number>831</number>
   </record>
-  <record>
-    <name>netconfsoaphttp</name>
+  <record updated="2025-09-29">
     <protocol>tcp</protocol>
-    <xref type="rfc" data="rfc4743"/>
-    <description>NETCONF for SOAP over HTTPS</description>
+    <note>Previously assigned to NETCONF over SOAP but released by <xref type="draft" data="RFC-ietf-netconf-port-numbers-07"/></note>
+    <description>Reserved</description>
     <number>832</number>
   </record>
-  <record>
-    <name>netconfsoaphttp</name>
+  <record updated="2025-09-29">
     <protocol>udp</protocol>
-    <xref type="rfc" data="rfc4743"/>
-    <description>NETCONF for SOAP over HTTPS</description>
+    <note>Previously assigned to NETCONF over SOAP but released by <xref type="draft" data="RFC-ietf-netconf-port-numbers-07"/></note>
+    <description>Reserved</description>
     <number>832</number>
   </record>
-  <record>
-    <name>netconfsoapbeep</name>
+  <record updated="2025-09-29">
     <protocol>tcp</protocol>
-    <xref type="rfc" data="rfc4743"/>
-    <description>NETCONF for SOAP over BEEP</description>
+    <note>Previously assigned to NETCONF over SOAP but released by <xref type="draft" data="RFC-ietf-netconf-port-numbers-07"/></note>
+    <description>Reserved</description>
     <number>833</number>
   </record>
-  <record>
-    <name>netconfsoapbeep</name>
+  <record updated="2025-09-29">
     <protocol>udp</protocol>
-    <xref type="rfc" data="rfc4743"/>
-    <description>NETCONF for SOAP over BEEP</description>
+    <note>Previously assigned to NETCONF over SOAP but released by <xref type="draft" data="RFC-ietf-netconf-port-numbers-07"/></note>
+    <description>Reserved</description>
     <number>833</number>
   </record>
   <record>
@@ -91628,19 +91622,25 @@ common service discovery mechanisms.</note>
     <description>Unassigned</description>
     <number>44124-44320</number>
   </record>
-  <record date="2010-12-20">
+  <record date="2010-12-20" updated="2025-09-29">
     <name>pmcd</name>
     <protocol>tcp</protocol>
-    <xref type="person" data="Ken_McDonell"/>
+    <assignee>
+    <xref type="person" data="Performance_Co-Pilot_PCP_Project"/>
+    </assignee>
     <description>PCP server (pmcd)</description>
     <number>44321</number>
+    <xref type="person" data="Ken_McDonell"/>
   </record>
-  <record date="2010-12-20">
+  <record date="2010-12-20" updated="2025-09-29">
     <name>pmcd</name>
     <protocol>udp</protocol>
-    <xref type="person" data="Ken_McDonell"/>
+    <assignee>
+    <xref type="person" data="Performance_Co-Pilot_PCP_Project"/>
+    </assignee>
     <description>PCP server (pmcd)</description>
     <number>44321</number>
+    <xref type="person" data="Ken_McDonell"/>
   </record>
   <record date="2003-07" updated="2025-09-26">
     <name>pmproxy</name>
@@ -92758,6 +92758,24 @@ common service discovery mechanisms.</note>
   <record>
     <name>netrjs</name>
     <description>Remote Job Service</description>
+  </record>
+  <record>
+    <name>netconf-beep</name>
+    <xref type="rfc" data="rfc4744"/>
+    <xref type="draft" data="RFC-ietf-netconf-port-numbers-07"/>
+    <description>NETCONF over BEEP</description>
+  </record>
+  <record>
+    <name>netconfsoapbeep</name>
+    <xref type="rfc" data="rfc4743"/>
+    <xref type="draft" data="RFC-ietf-netconf-port-numbers-07"/>
+    <description>NETCONF for SOAP over BEEP</description>
+  </record>
+  <record>
+    <name>netconfsoaphttp</name>
+    <xref type="rfc" data="rfc4743"/>
+    <xref type="draft" data="RFC-ietf-netconf-port-numbers-07"/>
+    <description>NETCONF for SOAP over HTTPS</description>
   </record>
   <record>
     <name>nfile</name>
