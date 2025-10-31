@@ -4,7 +4,7 @@
 <registry xmlns="http://www.iana.org/assignments" id="service-names-port-numbers">
   <title>Service Name and Transport Protocol Port Number Registry</title>
   <category>Service Names and Transport Protocol Port Numbers</category>
-  <updated>2025-10-29</updated>
+  <updated>2025-10-30</updated>
   <xref type="rfc" data="rfc6335"/>
   <expert>TCP/UDP: Joe Touch; Eliot Lear, Kumiko Ono, Wes Eddy, Brian Trammell, 
 Jana Iyengar, and Michael Scharf
@@ -56084,7 +56084,7 @@ common service discovery mechanisms.</note>
     <description>Unassigned</description>
     <number>4318</number>
   </record>
-  <record date="2022-01-20" updated="2025-10-29">
+  <record date="2022-01-20" updated="2025-10-30">
     <name>skytale</name>
     <protocol>tcp</protocol>
     <assignee>
@@ -56094,7 +56094,7 @@ common service discovery mechanisms.</note>
     <number>4319</number>
     <xref type="person" data="Mark_Revier"/>
   </record>
-  <record date="2022-01-20" updated="2025-10-29">
+  <record date="2022-01-20" updated="2025-10-30">
     <name>skytale</name>
     <protocol>udp</protocol>
     <assignee>
@@ -57167,25 +57167,25 @@ common service discovery mechanisms.</note>
     <number>4412</number>
     <xref type="person" data="Valentino_Giudice"/>
   </record> 
-  <record date="2015-09-18">
+  <record date="2015-09-18" updated="2025-10-30">
     <name>avi-nms</name>
     <protocol>tcp</protocol>
     <assignee>
-    <xref type="person" data="AVI_Systems"/>
+    <xref type="person" data="FORTÉ"/>
     </assignee>
       <description>AVI Systems NMS</description>
     <number>4413</number>
-    <xref type="person" data="Dave_Hatz"/>
+    <xref type="person" data="Rob_Duram"/>
   </record>
-  <record date="2015-09-18">
+  <record date="2015-09-18" updated="2025-10-30">
     <name>avi-nms-disc</name>
     <protocol>udp</protocol>
     <assignee>
-      <xref type="person" data="AVI_Systems"/>
+      <xref type="person" data="FORTÉ"/>
     </assignee>
     <description>AVI Systems NMS</description>
     <number>4413</number>
-    <xref type="person" data="Dave_Hatz"/>
+    <xref type="person" data="Rob_Duram"/>
   </record>
   <record date="2015-10-05">
     <name>updog</name>
@@ -81872,7 +81872,22 @@ common service discovery mechanisms.</note>
   </record>
   <record>
     <description>Unassigned</description>
-    <number>9982-9986</number>
+    <number>9982-9985</number>
+  </record>
+  <record date="2025-10-30">
+    <name>kaostransport</name>
+    <protocol>tcp</protocol>
+    <assignee>
+      <xref type="person" data="KAOS_Management_Group_LLC"/>
+    </assignee>
+    <description>KAOS secure message transport protocol for safety-critical environments</description>
+    <number>9986</number>
+    <xref type="person" data="Philip_Duvalsaint"/>
+  </record>
+  <record>
+    <protocol>udp</protocol>
+    <description>Reserved</description>
+    <number>9986</number>
   </record>
   <record date="2006-08">
     <name>dsm-scm-target</name>
@@ -102704,11 +102719,6 @@ implementations.  See RFC 3692 for details.</footnote>
       <org>Avi Software</org>
       <uri>mailto:srobert&amp;logava.com</uri>
     </person>
-    <person id="AVI_Systems">
-      <name>AVI Systems</name>
-      <uri>mailto:dave.hatz&amp;avisystems.com</uri>
-      <updated>2015-09-18</updated>
-    </person>
     <person id="Avri_Doria">
       <name>Avri Doria</name>
       <uri>mailto:avri.doria&amp;nokia.com</uri>
@@ -105968,11 +105978,6 @@ implementations.  See RFC 3692 for details.</footnote>
       <uri>mailto:gimpl&amp;us.ibm.com</uri>
       <updated>2003-01</updated>
     </person>
-    <person id="Dave_Hatz">
-      <name>Dave Hatz</name>
-      <uri>mailto:dave.hatz&amp;avisystems.com</uri>
-      <updated>2015-09-18</updated>
-    </person> 
     <person id="Dave_Hines">
       <name>Dave Hines</name>
       <uri>mailto:d.hines&amp;high-availability.com</uri>
@@ -108454,6 +108459,11 @@ implementations.  See RFC 3692 for details.</footnote>
     <person id="Forest_Hill">
       <name>Forest Hill</name>
       <uri>mailto:forest&amp;apple.com</uri>
+    </person>
+    <person id="FORTÉ">
+      <org>FORTÉ</org>
+      <uri>mailto:rob.duram&amp;ourforte.com</uri>
+      <updated>2025-10-30</updated>
     </person>
     <person id="Fortra">
       <org>Fortra</org>
@@ -113295,6 +113305,11 @@ implementations.  See RFC 3692 for details.</footnote>
       <name>Kannan Alagappan</name>
       <uri>mailto:kannan&amp;sejour.lkg.dec.com</uri>
     </person>
+    <person id="KAOS_Management_Group_LLC">
+      <name>KAOS Management Group, LLC</name>
+      <uri>mailto:phil&amp;GotKAOS.com</uri>
+      <updated>2025-10-30</updated>
+    </person>
     <person id="Karelia_Software">
       <name>Karelia Software</name>
     </person>
@@ -115369,7 +115384,7 @@ implementations.  See RFC 3692 for details.</footnote>
       <name>Mark Revier</name>
       <org>Sentyron B.V.</org>
       <uri>mailto:iana&amp;sentyron.com</uri>
-      <updated>2025-10-29</updated>
+      <updated>2025-10-30</updated>
     </person>
     <person id="Mark_S_Edwards">
       <name>Mark S. Edwards</name>
@@ -119320,6 +119335,11 @@ implementations.  See RFC 3692 for details.</footnote>
       <name>Philip Budne</name>
       <uri>mailto:budne&amp;auroratech.com</uri>
     </person>
+    <person id="Philip_Duvalsaint">
+      <name>Philip Duvalsaint</name>
+      <uri>mailto:phil&amp;GotKAOS.com</uri>
+      <updated>2025-10-30</updated>
+    </person>
     <person id="Philip_Line">
       <name>Philip Line</name>
       <org>Informatica</org>
@@ -120504,6 +120524,11 @@ implementations.  See RFC 3692 for details.</footnote>
     <person id="Rob_Cosgrove">
       <name>Rob Cosgrove</name>
       <uri>mailto:rob&amp;alice.net</uri>
+    </person>
+    <person id="Rob_Duram">
+      <name>Rob Duram</name>
+      <uri>mailto:rob.duram&amp;ourforte.com</uri>
+      <updated>2025-10-30</updated>
     </person>
     <person id="Rob_Earhart">
       <name>Rob Earhart</name>
@@ -122070,10 +122095,10 @@ implementations.  See RFC 3692 for details.</footnote>
       <uri>mailto:senthil&amp;veritas.com</uri>
     </person>
     <person id="Sentyron_B.V.">
-      <name>Sentyron B.V.</name>
+      <org>Sentyron B.V.</org>
       <uri>mailto:iana&amp;sentyron.com</uri>
-      <updated>2025-10-29</updated>
-    </person> 
+      <updated>2025-10-30</updated>
+    </person>
     <person id="Serge_DE_LUCA">
       <name>Serge DE LUCA</name>
       <uri>mailto:sdeluca&amp;lacie.com</uri>
