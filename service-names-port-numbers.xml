@@ -4,7 +4,7 @@
 <registry xmlns="http://www.iana.org/assignments" id="service-names-port-numbers">
   <title>Service Name and Transport Protocol Port Number Registry</title>
   <category>Service Names and Transport Protocol Port Numbers</category>
-  <updated>2026-03-06</updated>
+  <updated>2026-03-09</updated>
   <xref type="rfc" data="rfc6335"/>
   <expert>TCP/UDP: Joe Touch; Eliot Lear, Kumiko Ono, Wes Eddy, Brian Trammell, 
 Jana Iyengar, and Michael Scharf
@@ -79871,7 +79871,31 @@ any port number, but the default port for this protocol is 9100.</note>
   </record>
   <record>
     <description>Unassigned</description>
-    <number>9165-9190</number>
+    <number>9165-9182</number>
+  </record>
+  <record date="2026-03-09">
+    <name>sirius-agent</name>
+    <protocol>tcp</protocol>
+    <assignee>
+      <xref type="person" data="Sirius_Computer_Inc"/>
+    </assignee>
+    <description>Sirius Configuration Agent</description>
+    <number>9183</number>
+    <xref type="person" data="Jason_Van_der_Schyff"/>
+  </record>
+  <record date="2026-03-09">
+    <name>sirius-agent</name>
+    <protocol>udp</protocol>
+    <assignee>
+      <xref type="person" data="Sirius_Computer_Inc"/>
+    </assignee>
+    <description>Sirius Configuration Agent</description>
+    <number>9183</number>
+    <xref type="person" data="Jason_Van_der_Schyff"/>
+  </record>
+  <record>
+    <description>Unassigned</description>
+    <number>9184-9190</number>
   </record>
   <record date="2005-11">
     <name>sun-as-jpda</name>
@@ -111434,6 +111458,11 @@ implementations.  See RFC 3692 for details.</footnote>
       <uri>mailto:thorpej&amp;apple.com</uri>
       <updated>2015-09-29</updated>
     </person>
+    <person id="Jason_Van_der_Schyff">
+      <name>Jason Van der Schyff</name>
+      <uri>mailto:jason&amp;sirius.computer</uri>
+      <updated>2026-03-09</updated>
+    </person>
     <person id="Jason_Volk">
       <name>Jason Volk</name>
       <uri>mailto:jason&amp;teknidude.com</uri>
@@ -122638,6 +122667,11 @@ implementations.  See RFC 3692 for details.</footnote>
       <name>Sinnadurai Dharshan</name>
       <uri>mailto:sinnadurai.dharshan&amp;ni.com</uri>
       <updated>2002-07</updated>
+    </person>
+    <person id="Sirius_Computer_Inc">
+      <name>Sirius Computer, Inc</name>
+      <uri>mailto:jason&amp;sirius.computer</uri>
+      <updated>2026-03-09</updated>
     </person>
     <person id="Siva_Poobalasingam">
       <name>Siva Poobalasingam</name>
