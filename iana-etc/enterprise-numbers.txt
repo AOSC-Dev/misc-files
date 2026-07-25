@@ -1,6 +1,6 @@
 PRIVATE ENTERPRISE NUMBERS
 
-(last updated 2026-07-23)
+(last updated 2026-07-24)
 
 SMI Network Management Private Enterprise Codes:
 
@@ -98403,8 +98403,8 @@ Decimal
       JudyCui&ascent.com
 24597
   NRW.BANK
-    Gerhard Klein
-      gerhard.klein&nrwbank.de
+    Markus Markwart
+      markus.markwart&nrwbank.de
 24598
   NC Cable Pty Ltd t/as Neighbourhood Cable
     Wade Roberts
@@ -265445,6 +265445,30 @@ Decimal
   DC ASIA Ltd.
     Shinya Matsuda
       s-matsuda&dcasia-ltd.com
+66358
+  Privoro
+    Mike Fong
+      iana_pen&privoro.com
+66359
+  Altas Express LLC
+    Gufeng Shen
+      keanwshen&gmail.com
+66360
+  IaSoC
+    Di An
+      di.an&iasoc.org
+66361
+  AutographOS Corp
+    Maurice Prosper
+      mo&autographos.org
+66362
+  Enchorium
+    Marcus Cota
+      marcus&gigglebits.com
+66363
+  Sec s.r.o
+    Daniel Bielcik
+      electrical&sec.sk
 
 
 End of Document
