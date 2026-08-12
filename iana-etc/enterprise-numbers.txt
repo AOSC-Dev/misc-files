@@ -1,6 +1,6 @@
 PRIVATE ENTERPRISE NUMBERS
 
-(last updated 2026-08-07)
+(last updated 2026-08-11)
 
 SMI Network Management Private Enterprise Codes:
 
@@ -108098,9 +108098,9 @@ Decimal
     Fanny Tse
       fanny.tse&tradelink.com.hk
 27021
-  Pactiv  Corp.
-    Marius Satas
-      msatas&pactiv.com
+  Novolex Holdings, LLC
+    Edward Greenspan
+      Edward.Greenspan&novolex.com
 27022
   Instrumentation Technology Systems Corporation
     Paul Hightower
@@ -265929,6 +265929,130 @@ Decimal
   NextITX
     Tsai Chih-Chang
       jack&nextitx.com
+66479
+  CompleteMSP
+    Forrest Pachmayr
+      info&completemsp.com
+66480
+  aethercert
+    Simon Müller
+      security&aethercert.com
+66481
+  Speedit
+    Ronald Terpak
+      ronald&terpak.nl
+66482
+  Securepeak LLC
+    Alex Terrats Molina
+      alex.terrats&securepeak.ad
+66483
+  GoFirmex
+    Arturo Mantinetti
+      arturo&gofirmex.com
+66484
+  Fexsign
+    Arturo Mantinetti
+      arturo&fexsign.com
+66485
+  Ternstack
+    Sudhi Herle
+      pen-admin&ternstack.com
+66486
+  Saturn Pathology
+    Michael Tynas
+      mtynas&saturnpathology.com.au
+66487
+  Maven Logix Private Limited
+    Umer Khan
+      umer&mavenlogix.org
+66488
+  SE Service GmbH
+    Raik Grohmerr
+      info&se-service.gmbh
+66489
+  NtangledState Inc.
+    Sasikaran Selvendran
+      sasi&ntangledstate.com
+66490
+  Lyon Systems
+    Matthew Lyon
+      matthew&lyon.systems
+66491
+  Wild Turtles
+    BARDOT Jérôme
+      contact&wild-turtles.com
+66492
+  VusionGroup GmbH
+    Horst Kautschitz
+      horst.kautschitz&vusion.com
+66493
+  East Lothian Council
+    David Morris
+      dmorris&eastlothian.gov.uk
+66494
+  MetTel
+    Ifesinachi Osude
+      iosude&mettel.net
+66495
+  ISOLEDIN s.r.o.
+    Jakub Zrzavý
+      jakub.zrzavy&isoledin.com
+66496
+  CXL Consortium
+    CXL Administration
+      admin&computeexpresslink.org
+66497
+  SHIVANSHU JHA
+    SHIVANSHU JHA
+      indiahostya&gmail.com
+66498
+  Mariusz Drozdowski
+    Mariusz Drozdowski
+      schemedit&wp.pl
+66499
+  Estado de Goias - Tecnologia da Informacao
+    Equipe de Seguranca - STI
+      seguranca.sti&goias.gov.br
+66500
+  Kodiak AI
+    Manish Mahajan
+      webmaster&kodiak.ai
+66501
+  Simple Designs Software LLC
+    Thomas Avato
+      snmpcontact&simpledesignssoftware.com
+66502
+  NetInTech
+    Evgenii Vidyakin
+      evgenii&netintech.ru
+66503
+  Guilin Guangyi Intelligent Technology Co., Ltd.
+    ZengWeiqiang
+      zengweiqiang&glgyzn.com
+66504
+  Moon Biotech Co., Ltd.
+    Yajun Liang
+      moonis&moonbio.com
+66505
+  Callray Communications Co., Ltd.
+    Xu Liu Bing
+      xulb&callray.com.cn
+66506
+  PILA GROUP JOINT STOCK COMPANY
+    Nguyễn Võ Nguyên
+      nguyennv&pila.vn
+66507
+  Xiaomi EV Technology Co., Ltd.
+    Shiyu He
+      heshiyu&xiaomi.com
+66508
+  Creotech Quantum S.A.
+    Paweł Zienkiewicz
+      pawel.zienkiewicz&creotechquantum.pl
+66509
+  Maru Ná ~ Verein für Bewußtseinsentwicklung
+    Marcus Bauch
+      mb&maru-na.org
 
 
 End of Document
