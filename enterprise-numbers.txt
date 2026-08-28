@@ -1,6 +1,6 @@
 PRIVATE ENTERPRISE NUMBERS
 
-(last updated 2026-08-25)
+(last updated 2026-08-27)
 
 SMI Network Management Private Enterprise Codes:
 
@@ -168955,8 +168955,8 @@ Decimal
       rcuirle&knotice.com
 42235
   Tresorit Kft.
-    Istvan Lam
-      lam&tresorit.com
+    Tresorit Kft.
+      oid&tresorit.com
 42236
   RDT Ltd
     Holger Hasenstrauch
@@ -181411,7 +181411,7 @@ Decimal
       jiakai&megvii.com
 45349
   VGNet Networking
-    J.H. van Gils
+    Jan van Gils
       support&vgnet.nl
 45350
   jorde.it
@@ -241058,8 +241058,8 @@ Decimal
     Sjef van Gool
       info&maker.systems
 60261
-  Methinks software SL
-    Carlos Crespo
+  Methinks Software SL
+    Pablo Cañas
       systems&methinks.es
 60262
   Stella Freyju
@@ -266573,6 +266573,46 @@ Decimal
   OTPme Project
     Heiko Baumann
       the2nd&otpme.org
+66640
+  AUSIGHT
+    jiwon son
+      dev&ausight.ai
+66641
+  John Portzer
+    John Portzer
+      japortzer&gmail.com
+66642
+  Oliver Keutel
+    Oliver Keutel
+      oliver&oliver-keutel.de
+66643
+  Rongta R&D Center
+    Kevin De Bruyne
+      rt-ee14&rongtatech.com
+66644
+  Electro-Voice Dynacord, LLC
+    Bastian Huber
+      Bastian.Huber&keenfinity-group.com
+66645
+  Urban Baby Beginnings
+    Stephanie Spencer
+      sspencer&urbanbabybeginnings.org
+66646
+  J1-LED Intelligent Transport Systems Pty Ltd
+    Jason Jacobs
+      engineering&j1led.com
+66647
+  Sudeep D Ghate
+    Akshaya M
+      akshaya.movvar&codeslice.dev
+66648
+  Abberior Instruments GmbH
+    Arne Wiesel
+      staff-it&abberior-instruments.com
+66649
+  Akino Medical Pte Ltd
+    Ojas Joshi
+      ojas&akinomedical.com
 
 
 End of Document
