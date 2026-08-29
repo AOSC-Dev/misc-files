@@ -1,6 +1,6 @@
 PRIVATE ENTERPRISE NUMBERS
 
-(last updated 2026-08-27)
+(last updated 2026-08-28)
 
 SMI Network Management Private Enterprise Codes:
 
@@ -57086,9 +57086,9 @@ Decimal
     RuiJun Wu
       wrj5&sohu.com
 14268
-  Projekt Avalon
+  JRVFONPU
     Michael Weisbach
-      iana&tuts.nu
+      mwei-iana-2026&gebirg.de
 14269
   Beijing Vanlink Communication Co. P.R.China Yu
     Yu Wei
@@ -206599,8 +206599,8 @@ Decimal
       netops&kordamentha.com
 51646
   Becker Nachrichtentechnik GmbH
-    Alexander Domanski
-      alexander.domanski&becker-rf.com
+    Jan Reifenhaeuser
+      support&becker-rf.com
 51647
   Rennes Métropole
     Nathalie Marin
@@ -258666,7 +258666,7 @@ Decimal
     Michael Cramer
       mcramer&relativityspace.com
 64663
-  Guangzhou Felicity Solar Technology Co., Ltd.
+  Guangdong Felicity New Energy Co Ltd
     LIU SHUANGLI
       shelly&felicitysolar.com
 64664
@@ -266613,6 +266613,118 @@ Decimal
   Akino Medical Pte Ltd
     Ojas Joshi
       ojas&akinomedical.com
+66650
+  Kenton Groombridge
+    Kenton Groombridge
+      iana&concord.sh
+66651
+  Zhong'an Zhixin Standard Technical Service (Shanghai) Co., Ltd.
+    Zhao Fucai
+      hello&zaxio.cn
+66652
+  Robin Weiligmann
+    Robin Weiligmann
+      Webmaster&davensberg.com
+66653
+  Anapaya Systems
+    Lukas Bischofberger
+      bischofberger&anapaya.net
+66654
+  Global Timestamp Authority
+    Grey McKenzie
+      greymckenzie100&gmail.com
+66655
+  Bynn Intelligence, Inc.
+    John Cavebring
+      john&bynn.com
+66656
+  The X ORB AB
+    Henrik Allberg
+      henrik&thexorb.com
+66657
+  Crystal
+    Douglas Njiraini Gicho
+      douglas&crystalsign.io
+66658
+  PT. Sydeco
+    Afridho Tattaq Tavadhu
+      attridho&gmail.com
+66659
+  ENERGY IN THE CLOUD SL
+    EDUARDO DIAZ
+      eduardo.diaz&energyinthecloud.com
+66660
+  Titus d.o.o. Dekani
+    Danijel Kirjakovic
+      informatika&titusplus.com
+66661
+  OPENWAY TECHNOLOGIES LTD
+    Agathi Kentoni
+      register&openwaygroup.com
+66662
+  JSC "INTER GROUP"
+    Alexey Yankiv
+      ayankiv&aq.ru
+66663
+  Hexegic Limited
+    Bob Smith
+      contact&hexegic.com
+66664
+  EU-Zahlstelle Sachsen-Anhalt
+    EU-Zahlstelle Sachsen-Anhalt
+      EUZS-IT&mule.sachsen-anhalt.de
+66665
+  RaruseReiji
+    周德恒 (Zhou Deheng)
+      admin&rarusereiji.org
+66666
+  Packet Pilot LLC
+    Technology Division
+      tech.all&packet-pilot.net
+66667
+  Cooler Master Co., Ltd.
+    wuhuizhen
+      Huizhen_Wu&coolermaster.com.cn
+66668
+  KS2 Corp Inc
+    Oleg Pukha
+      oleg.p&ks2corp.com
+66669
+  EnergyNet Task Force
+    EnergyNet Task Force administrators
+      info&energynettaskforce.org
+66670
+  SunState Medical Specialists
+    Christy Oxenrider
+      coxenrider&uniteduro.com
+66671
+  Intradel
+    NOTTE Pierre
+      Support&intradel.be
+66672
+  Cogniflow
+    Gabor Balanyi
+      balanyi.gabor&cogniflow.hu
+66673
+  Maicon Pereira da Silva
+    Maicon Pereira da Silva
+      dev.maiconsilva&gmail.com
+66674
+  HopeTrek Innovations Co.,Ltd.
+    sun wuyuan
+      sunwuyuan02&uniview.com
+66675
+  Leasing České spořitelny, a.s.
+    Ivo Křepela
+      ikrepela&leasingcs.cz
+66676
+  Corbotics
+    Nick van Stijn
+      oid-admin&corbotics.com
+66677
+  Caneline Limited
+    Antony Scholes
+      tonys&talisman.tech
 
 
 End of Document
