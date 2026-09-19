@@ -1,6 +1,6 @@
 PRIVATE ENTERPRISE NUMBERS
 
-(last updated 2026-09-17)
+(last updated 2026-09-18)
 
 SMI Network Management Private Enterprise Codes:
 
@@ -18267,8 +18267,8 @@ Decimal
       tim&cmark.com
 4563
   Syllogi, Inc.
-    Harold E. Austin, Jr.
-      haustin&diversenet.com
+    Harold E Austin Jr
+      harold&syllogi.com
 4564
   Diverse Networks, Inc.
     Harold E. Austin,
@@ -177843,8 +177843,8 @@ Decimal
       sebastian.kricner&tuxwave.net
 44457
   Biamp Systems
-    Michael Veit
-      michael.veit&biamp.com
+    Patrick LeBlanc
+      Patrick.LeBlanc&biamp.com
 44458
   IT WATANA COMPANY
     Jaruwat Boonmee
@@ -267286,7 +267286,7 @@ Decimal
     Caleb Waller
       iana&nhireit.com
 66818
-  深圳云豹智能有限公司 (Shenzhen Jaguar Microsystems Co., Ltd.)
+  深圳云豹智能股份有限公司 (Shenzhen Yunbao Microsystems Co., Ltd.)
     Aaron.Chu
       aaron.chu&jaguarmicro.com
 66819
@@ -267533,6 +267533,98 @@ Decimal
   Datasoft Srl
     Rosario Crispo
       info&datasoftweb.com
+66880
+  Halyard
+    Brian Kimberling
+      brian&kimberling.us
+66881
+  METODO SCIENTIFICO DIGITALE TOLA (MSDT)
+    Francesco Tola
+      francesco.tolamsdt&registerpec.it
+66882
+  Phil Summers
+    Phil Summers
+      phil+snmp&blindlime.org
+66883
+  BLACKFISHID SL
+    Arnau Bartrés
+      arnau&blackfishid.com
+66884
+  Digital Control, Inc.
+    Victor Kurkov
+      iana&digital-control.com
+66885
+  OZ1 Corporation
+    Shoi Egawa
+      egawa&oz1.life
+66886
+  Toyota & Lexus Centrum Wrocław Sp. z o.o
+    Stanisław Bierówka
+      staszek&toyota-centrum.pl
+66887
+  Aretiico Ltd
+    Gareth Sanders
+      gareth.s&aretiico.com
+66888
+  Linkdata Technology (Tianjin) Co., LTD
+    Albert Chen
+      chenshch&linkdatatechnology.com
+66889
+  Wuxi Stars Microsystem Technology Co., Ltd
+    Albert Chen
+      chenshch&starsmicrosystem.com
+66890
+  Pro AV Solutions QLD
+    Hayden Huggins
+      hayden.huggins&proav.com.au
+66891
+  2provide GmbH
+    Frank Waßmuth
+      systeme&2provide.de
+66892
+  Oct Systems Inc.
+    Koshiro Saito
+      dev&oct-systems.com
+66893
+  OrbitSRV
+    Sad Heir
+      orbitsrv&hotmail.com
+66894
+  Devalex LLC
+    Shaun Hess
+      shaunhess&devalex.us
+66895
+  Dcim-France
+    Gwenael ADINE
+      Adine.g&dcim-france.fr
+66896
+  SONOTRACK SISTEMAS S.A.
+    Mikel Eguren
+      sonotrack&sonotrack.es
+66897
+  Binário.net
+    Elaine Fuzetti
+      efuzetti&binario.net
+66898
+  Mujahiddin Janapi
+    Mujahiddin Bin Janapi
+      hostname&host.name.my
+66899
+  Quantidia LLC
+    Roberto Minoletti
+      roberto.minoletti&quantidia.com
+66900
+  Melbourne Automation
+    Jordan Wishart
+      jordan.w&melbourneautomation.com.au
+66901
+  Alnet Systems Sp. z o.o.
+    Tomasz Kaliński
+      tk&alnetsystems.com
+66902
+  ITSpine
+    Stéphane Pinçon
+      stephane.pincon&gmail.com
 
 
 End of Document
