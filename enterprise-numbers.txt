@@ -1,6 +1,6 @@
 PRIVATE ENTERPRISE NUMBERS
 
-(last updated 2026-10-26)
+(last updated 2026-10-27)
 
 SMI Network Management Private Enterprise Codes:
 
@@ -112430,9 +112430,9 @@ Decimal
     Phil Myers
       philm&audionics.co.uk
 28104
-  Evorad
-    Kostas Karolemeas
-      kostas.karolemeas&evorad.com
+  IKNOWHEALTH S.A.
+    MARIA-ELEFTHERIA KOUSTENI
+      mkousteni&iknowhealth.com
 28105
   Arcelor Bremen GmbH
     Marc Djacenko
@@ -116286,7 +116286,7 @@ Decimal
     Richard Watson
       richard&the-loop.co.za
 29068
-  OpenSource Training Ralf Spenneberg
+  OpenSource Security GmbH
     Ralf Spenneberg
       iana&spenneberg.net
 29069
@@ -246602,9 +246602,9 @@ Decimal
     Fabrice Payet
       dsi-pole-infra&cr-reunion.fr
 61647
-  Fractal Energy Pty Ltd
-    Jostin Meekels
-      jostin.meekels&squirrel-energy.com.au
+  Unassigned
+    Removed 2026-10-27
+      no-reply&iana.org
 61648
   Norcal Ambulance
     Daniel Newman
@@ -269312,7 +269312,7 @@ Decimal
 67324
   Overwatch Labs
     Nkurunziza Jean Yves
-      yves-nkurunziza&outlook.com
+      ceo&overwatchlabs.dev
 67325
   t3ra
     Bastien Arata
@@ -269521,6 +269521,174 @@ Decimal
   Shinerium Foundation
     Hannu Hilanne
       info&shinerium.org
+67377
+  Tannerpress
+    Matthew Tanner
+      matthewtanner2&att.net
+67378
+  河北康普科技有限公司 (Hebei Kangpu Technology Co., Ltd.)
+    刘建波 (Liu Jianbo)
+      16400859&hebmu.edu.cn
+67379
+  TPSBoston
+    TPSBoston
+      tpsboston&gmail.com
+67380
+  Sławomir Koszewski
+    Sławomir Koszewski
+      slawek&koszewscy.waw.pl
+67381
+  CORUH ARGE VE TEKNOLOJI SANAYI TICARET LIMITED SIRKETI
+    Ugur Coruh
+      coruh&coruh.com.tr
+67382
+  Cognisn Pty Ltd
+    Matthew Westwood-Hill
+      matthew&cognisn.com
+67383
+  Platinum Relations
+    Nathan Brewer
+      nathan&platinumrelations.com
+67384
+  NomaSign (YouSource SA Pty Ltd)
+    Kjell Hoppenbrouwers
+      hello&nomasign.com
+67385
+  EVEX TECHNOLOGY CO., LTD.
+    Fred Shao
+      fred.shao&evex-tech.com
+67386
+  Vinicius A. Santana
+    Vinicius A. Santana
+      me&vinisantana.com
+67387
+  Saltline Software
+    Kevin Ethridge
+      admin&saltlinesoftware.com
+67388
+  LabOWL
+    Kendrick Vargas
+      maintainers&labowl.org
+67389
+  AppXLerate, LLC
+    Brian Weng
+      bigby&appxlerate.net
+67390
+  DhitraLabs
+    Subhadip Nandi
+      sbn&dhitralabs.com
+67391
+  PATA SALADA GRUPO CORPORATIVO
+    Andres Reyes Hernandez
+      soporte.tic&patasalada.mx
+67392
+  SID banka, d.d.
+    Domen Zalar
+      domen.zalar&sid.si
+67393
+  Tianjin Beifang Hengye Electriacal Technical co.,LTD
+    Wang Yingjun
+      wangyingjun&tjbfhy.cn
+67394
+  Centrum voor Kankeropsporing vzw
+    Johan Bruyninx
+      johan.bruyninx&bevolkingsonderzoek.be
+67395
+  DATA KNOX DMS PRIVATE LIMITED
+    Ravi Mahabal Shetty
+      ravi.shetty&macronnetworks.com
+67396
+  H&M Software-Netzwerktechnik-GmbH
+    michael lechner
+      mlc&hmsoftware.com
+67397
+  Cylenk S.A.
+    Eric Seuret
+      eric.seuret&cylenk.com
+67398
+  Impuls ing d.o.o.
+    Raul Simcic
+      raul.impulsing&gmail.com
+67399
+  University of Defence
+    Jakub Kunický
+      jakub.kunicky&unob.cz
+67400
+  BURGERETCIE
+    CIO
+      infosec&burger.fr
+67401
+  Devolutions
+    Marc-André Moreau
+      service&devolutions.net
+67402
+  Mesoscale Systems Ltd. Co.
+    Cash Brunow
+      cbrunow&mesoscale.systems
+67403
+  Healistic Group Ltd
+    Erich Klinspon
+      iana-admin&healistic.net
+67404
+  Fromages Fins CA
+    Pierre Vallee
+      pierre.vallee&agropur.com
+67405
+  Lightfield Medical, Inc.
+    Juan Mompean
+      develop&lightfieldmedical.com
+67406
+  Vasily Povalyaev
+    Vasily Povalyaev
+      ianax509.unbridle330&passmail.net
+67407
+  Net Max for Communication Services,General Trading,General Contracting,Energy Solutions  and Renewable Energy
+    Ahmed Najah Salih Alyaseen
+      info&netmaxgroup.iq
+67408
+  Validated One
+    Kuson Sintusingha
+      kusons&gmail.com
+67409
+  NAKIVO Inc.
+    NAKIVO IT Support
+      ali.mhammad&nakivo.com
+67410
+  YASSS
+    Olaf Paschen
+      contact&blibre.eu
+67411
+  xorpoz
+    Przemysław Podleżański
+      ianapen&xorion.pl
+67412
+  accroma labtec Ltd.
+    Beat Federer
+      beat.federer&accroma.com
+67413
+  上海金榜智能科技有限公司 (Shanghai Jinbang Intelligent Technology Co., Ltd.)
+    薛玮 (Vincent Xue)
+      vincent.xue&shkingweb.com
+67414
+  Rush Enterprises
+    Marc Lindsasy
+      ctr.LindsayM&rushenterprises.com
+67415
+  Markovian Protocol
+    Colin Winter
+      hello&markovianprotocol.com
+67416
+  Certificate.Digital Ltd.
+    Rajesh Mittal
+      rajesh&certificate.digital
+67417
+  Starostwo Powiatowe w Oswiecimiu
+    Maciej Fudala
+      informatyk&powiat.oswiecim.pl
+67418
+  VIZIOME
+    julien MARTINEZ
+      julien.martinez&viziome.com
 
 
 End of Document
