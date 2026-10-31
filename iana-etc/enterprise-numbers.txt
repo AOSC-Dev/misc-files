@@ -1,6 +1,6 @@
 PRIVATE ENTERPRISE NUMBERS
 
-(last updated 2026-10-29)
+(last updated 2026-10-30)
 
 SMI Network Management Private Enterprise Codes:
 
@@ -49115,8 +49115,8 @@ Decimal
       Jacques.Eudes&ujf-grenoble.fr
 12275
   University of Southampton
-    Cédric Devivier
-      c.devivier&soton.ac.uk
+    George Peppard
+      serviceline&soton.ac.uk
 12276
   F5 Networks Inc
     Ravi Natarajan
@@ -116288,7 +116288,7 @@ Decimal
 29068
   OpenSource Security GmbH
     Ralf Spenneberg
-      iana&spenneberg.net
+      iana&nohup.info
 29069
   HartmannSoft
     Lars Hartmann
@@ -191278,9 +191278,9 @@ Decimal
     Erik Buki
       erik.buki&storaenso.com
 47816
-  Joseph Studio
+  Joseph Chris
     Joseph Chris
-      joseph&josephcz.xyz
+      me&josephcz.com
 47817
   HAWE Hydraulik SE
     Daniel Pradel
@@ -245542,9 +245542,9 @@ Decimal
     Mitch Eadie
       mitch.eadie&clipsalsolar.com
 61382
-  Squirrel Energy Pty Ltd
-    Jostin Meekels
-      jostin.meekels&squirrel-energy.com.au
+  Unassigned
+    Removed 2026-10-30
+      no-reply&iana.org
 61383
   Jeremy D. Pavleck
     Jeremy D. Pavleck
@@ -268582,7 +268582,7 @@ Decimal
     曹俊 (Cao Jun)
       caojun&sugon.com
 67142
-  FTSTECH AUSTRALIA PRIVATE LIMITED
+  FTSTECH AUSTRALIA PTY LTD
     Shishir Chauhan
       support&ftstech.ai
 67143
@@ -269761,6 +269761,98 @@ Decimal
   Absentia Technologies Corporation
     Andrew Ferguson
       andrew.ferguson&absentiatech.com
+67437
+  SyntheNote
+    IFUNANYA NNOKA
+      ifunanya.nnoka&synthenote.com
+67438
+  WolfieSchema
+    Ben Weiss
+      ben&wolfieschema.com
+67439
+  深圳市亿万克数据设备科技有限公司 (Shenzhen EVOC Data Equipment Technology Co., Ltd.)
+    Adam EVOC
+      ywk&evocsv.com
+67440
+  Spanalytics, LLC
+    G L Ward
+      info&spanalytics.com
+67441
+  Mi Tecnico SpA
+    Oscar Guerrero G.
+      oguerrerog&gmail.com
+67442
+  OKG Aktiebolag
+    Simon Nilsson
+      simon.nilsson2&okg.uniper.energy
+67443
+  SecureMachines
+    Shreenivas Hegde
+      shree.hegde&securemachines.in
+67444
+  Shenzhen Yunt Digital Power Co., Ltd.
+    Xiujiang Zhao
+      xiujiangzhao&yunt-power.com
+67445
+  AVASIM
+    Alireza Firoozian
+      a.firoozian&avasim.tech
+67446
+  Oregon Institute of Technology
+    Information Technology Services
+      techservices&oit.edu
+67447
+  SMLK Studio
+    Akari Ling
+      akari&smlk.org
+67448
+  APOTEC APOIO TECNICO IND E COM ELETROMECANICA LTDA - ME
+    Rubens Hubner Junior
+      rubenshubnerjunior2010&gmail.com
+67449
+  Avnir, LLC
+    Cameron Halter
+      support&avnir.com
+67450
+  ILO Endoscopic Systems; Inc.
+    Hikaru Brianti
+      info.usa&ilo.com
+67451
+  SABE
+    Timothy Charles Gloo
+      Tim&SABEsecure.com
+67452
+  Codigm Limited
+    Paul Baker
+      paul&codigm.co.uk
+67453
+  Trendy Beat Network LTD
+    Gurcharanpreet Singh Bhangu
+      legal&trendybeat.com
+67454
+  Distro Globe FZC
+    Gurcharanpreet Singh Bhangu
+      legal&distroglobe.com
+67455
+  GANSHORN Medizin Electronic GmbH
+    Joerg Hoehn-Schmitt
+      joerg.hoehn-schmitt&ganshorn.de
+67456
+  Shenzhen Drawer Technologies Development Co., Ltd.
+    James Ding
+      dj&drawerkvm.com
+67457
+  Selene Feigl
+    Selene Feigl
+      sfeigl_pen_contact&artemicode.de
+67458
+  UBISENSE LIMITED
+    Ben Campbell
+      ben.campbell&ubisense.com
+67459
+  IPM-Pro, LLC
+    Sergey Denisov
+      s.denisov&ipm-pro.ru
 
 
 End of Document
